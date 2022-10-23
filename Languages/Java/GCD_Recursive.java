@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.*;
 
-public class GCD_recursive {
+public class GCD_Recursive {
     public static void main(String[] args) {
 
         Scanner scanner = new Scanner(System.in);
